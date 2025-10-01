@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: sheri facey
+# DATE: 10/01/25
+# BRIEF DESCRIPTION:  grade conversion
 
 
 
@@ -84,6 +84,8 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
+
+   I would tell one to examine what the expected output is
 
 
 
